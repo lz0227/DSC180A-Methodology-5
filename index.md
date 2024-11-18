@@ -1,4 +1,5 @@
-## Luran Zhang, luz010@ucsd.edu
+## DSC180A Methodology 5
+### Luran Zhang, luz010@ucsd.edu
 ### B01-GenAI for Good, Ali Arsanjani
 ---
 1. **What is the most interesting topic covered in your domain this quarter?**  
